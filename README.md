@@ -1,6 +1,6 @@
-# apekshaj04-apekshaj04
+
 <h1 align="center">Hi 👋, I'm Apeksha</h1>
-<h3 align="center">A passionate Frontend Developer and Open Source Contributor</h3>
+<h3 align="center">A passionate Web Developer,Blockchain Developer,ML Enthusiast, Programmer and Open Source Contributor</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Web+Developer+%7C+Open+Source+Lover;Always+learning+something+new+%F0%9F%92%AA" alt="Typing SVG" />
